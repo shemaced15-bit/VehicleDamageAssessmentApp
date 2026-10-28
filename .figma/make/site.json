@@ -1,0 +1,10 @@
+{
+  "description": "Automates vehicle damage assessment using AI to provide fast, accurate reports for insurers and repair shops, streamlining claims and repairs.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
